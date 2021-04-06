@@ -1,0 +1,1014 @@
+{
+  "parent_group_code": "698",
+  "parent_group_name": "�������� �������� � ����",
+  "products": [
+    {
+      "id": 17153,
+      "name": "��� ������ ����.��.� ���.� �/���.15% 60�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3636506.jpg",
+      "plu": 3636506,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 21.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17154,
+      "name": "��� ������ ����.��.���/����.�/���15% 60�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3636507.jpg",
+      "plu": 3636507,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 21.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43052,
+      "name": "�����.����.�/� ����/���.� 3��� 2,5% 100�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3433170.jpg",
+      "plu": 3433170,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 21.65,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43084,
+      "name": "ACTIMEL ����.�/� ������.���.��.2,5% 100�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3666190.jpg",
+      "plu": 3666190,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 24.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43086,
+      "name": "�����.����.�/� ����.����.���� 2,5% 100�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3689315.jpg",
+      "plu": 3689315,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 24.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43110,
+      "name": "������������� �������, ����������� � ����������, ��������� � ������� �������� 2,2% 95�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4061909.jpg",
+      "plu": 4061909,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 24.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43111,
+      "name": "���� ������� \"��������\" ��������.,����.L.Casei Imunitass � ���.B6 � D3, � ����������, �������� � �������� 2,2% 95�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4061910.jpg",
+      "plu": 4061910,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 24.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43081,
+      "name": "�������� ������.��.�������.���.3,5% 150�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3665120.jpg",
+      "plu": 3665120,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 22.99,
+        "price_promo__min": 21.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43130,
+      "name": "����� ����������� �������, ������, ���������, �������������, 16%, 40 �",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3334722.jpg",
+      "plu": 3334722,
+      "promo": {
+        "id": 1172068525,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 29.99,
+        "price_promo__min": 21.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43082,
+      "name": "��������, ��������� � ��������� ��� ���. ����� ����. � �� ����, ��������. �������, � � � � 2,9 % 150�\n",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3665121.jpg",
+      "plu": 3665121,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 29.69,
+        "price_promo__min": 24.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43083,
+      "name": "�������� ��������� � � �������� � ������� ��� ���. ����� ����. � �� ����., ��������.�������, �.�.� 2,9% 150�\n",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3665122.jpg",
+      "plu": 3665122,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 29.69,
+        "price_promo__min": 24.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43108,
+      "name": "��������� �/������� ����� ����. � ��. ��������, ������. �������. ����������., � �������, ��������� � �������� ����, �.�.�. 2,90% 150",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4060493.jpg",
+      "plu": 4060493,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 29.99,
+        "price_promo__min": 24.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43090,
+      "name": "������ ������, ����� � �������, 0,1%, 170 �",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3692659.jpg",
+      "plu": 3692659,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 46.99,
+        "price_promo__min": 35.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43091,
+      "name": "������ ������, ����� � �������, 5,5%, 170 �",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3692660.jpg",
+      "plu": 3692660,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 46.99,
+        "price_promo__min": 35.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17103,
+      "name": "����� ����� �.�.�����������, �������������, 15%, 40 �",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3472523.jpg",
+      "plu": 3472523,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 37.49,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43077,
+      "name": "�������� ��������� �� ������� ��� ���. ����� ����. � �� ����., ����������� �������-�� ����������-�� Howaru�Dophilus, �.�.� 2% 290�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3657046.jpg",
+      "plu": 3657046,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 39.9,
+        "price_promo__min": 37.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43078,
+      "name": "�������� ��������� � �����. � ��������. ��� ���. ����� ����. � �� ����., ��������.�������, �.�.� 2% 290�\n",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3657048.jpg",
+      "plu": 3657048,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 39.9,
+        "price_promo__min": 37.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43079,
+      "name": "�������� ��������� � ���� � ������ ��� ���. ����� ����. � �� ����., ��������.�������, �.�.� 2% 290�\n",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3657050.jpg",
+      "plu": 3657050,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 39.9,
+        "price_promo__min": 37.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17197,
+      "name": "��������� ������� �/� ��� ������ 1% 0,5�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3677707.jpg",
+      "plu": 3677707,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43068,
+      "name": "������ � ������ � �������� \"EPICA\". �������� ���� ���� 4,8% 130�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3612607.jpg",
+      "plu": 3612607,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 43.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43075,
+      "name": "EPICA ������ � ��������/�����.4,8% 130�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3646002.jpg",
+      "plu": 3646002,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 43.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17063,
+      "name": "����� ������� ������� �/���� ����.180�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3427232.jpg",
+      "plu": 3427232,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 41.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17147,
+      "name": "������� ������� ���������������� \"�����\" \"������\" \"�������\", 180 �����",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3631318.jpg",
+      "plu": 3631318,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 41.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17041,
+      "name": "���.��.������ 101 �����+��.5% ����.130�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3377514.jpg",
+      "plu": 3377514,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 49.9,
+        "price_promo__min": 45.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17043,
+      "name": "���.��.������ 101 �����+��.�����.5% 130�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3379385.jpg",
+      "plu": 3379385,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 49.9,
+        "price_promo__min": 45.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43059,
+      "name": "������ ���, 9%, 180 �",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3490825.jpg",
+      "plu": 3490825,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 71.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17297,
+      "name": "���� ��������� �������� ������������� ��������� � ������������ ������� ����� � ����������� ����� �������, 190� 2,7%",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4045556.jpg",
+      "plu": 4045556,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 56.99,
+        "price_promo__min": 50.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17271,
+      "name": "���� ����� ������ �������� � �������, � �������� ����� ���� 5,0% � ��������� ����������� \"������ - �����\" 150�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4001847.jpg",
+      "plu": 4001847,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 51.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17272,
+      "name": "���� ����� ������ �������� � �������, � �������� ����� ���� 5,0% � ��������� ����������� \"�������� - ���������\" 150�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4001848.jpg",
+      "plu": 4001848,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 51.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 2977,
+      "name": "������ ����������, ���������������������, 3,2%, 970 ��",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3645807.jpg",
+      "plu": 3645807,
+      "promo": {
+        "id": 1172198766,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 63.9,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17264,
+      "name": "�������� ��� ������� �����, ���. 72%, 250��.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3977160.jpg",
+      "plu": 3977160,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 55.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17070,
+      "name": "����� ������ 3,3% 350�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3433156.jpg",
+      "plu": 3433156,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 64.99,
+        "price_promo__min": 57.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43069,
+      "name": "���� �������.������ ���.����.���.3,4-4% 930��",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3613025.jpg",
+      "plu": 3613025,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 59.0,
+        "price_promo__min": 57.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43058,
+      "name": "��������������� ���������� ������� ���������� ������� ������� ��� ���������� ������ ORIGINAl 200�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3483307.jpg",
+      "plu": 3483307,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 67.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17037,
+      "name": "�������.������ 1,5%������ �����-��� 750�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3363988.jpg",
+      "plu": 3363988,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 75.55,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43065,
+      "name": "������� �������������, 25%, 315 �",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3601974.jpg",
+      "plu": 3601974,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 72.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43063,
+      "name": "VALIO ��� ��������� ����.45% ����.140�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3501012.jpg",
+      "plu": 3501012,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 79.9,
+        "price_promo__min": 74.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43055,
+      "name": "������ ����� � �������, ��������, ���������������, 3,7%, 1400 ��",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3467788.jpg",
+      "plu": 3467788,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 89.95,
+        "price_promo__min": 84.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17042,
+      "name": "���� ����.�����.���.��/���� ����.2% 950�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3378996.jpg",
+      "plu": 3378996,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 114.99,
+        "price_promo__min": 101.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17121,
+      "name": "��� ��������� ������, Arla Natura, 30%, 150 �",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3504112.jpg",
+      "plu": 3504112,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 172.99,
+        "price_promo__min": 129.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17231,
+      "name": "��� ��������� ��������� �� ������� � �.�.�. 55%, 400�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3924969.jpg",
+      "plu": 3924969,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 179.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17317,
+      "name": "���� ��� \"������� ������\" 45% �� ������� ����� (������� ��./���., ���. 200� ������, 10��/�)",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4062961.jpg",
+      "plu": 4062961,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 159.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43105,
+      "name": "��� ����������, ����� �������, 200 �",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4046889.jpg",
+      "plu": 4046889,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 147.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43085,
+      "name": "��� ���������, ����� �������, 200 �",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3670270.jpg",
+      "plu": 3670270,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 159.99,
+        "price_promo__min": 149.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17226,
+      "name": "��� ��������� ������� 45% 400�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3906891.jpg",
+      "plu": 3906891,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 195.99,
+        "price_promo__min": 189.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17131,
+      "name": "�������.����� ������.����.82,5% 400�",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3612680.jpg",
+      "plu": 3612680,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 299.0,
+        "price_promo__min": 279.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 17243,
+      "name": "������ �Ǩ� ����� ��������� ��������������� �������� �. �. �. 82,5% 400 ��",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3953367.jpg",
+      "plu": 3953367,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 27
+      },
+      "current_prices": {
+        "price_reg__min": 309.99,
+        "price_promo__min": 286.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 43094,
+      "name": "��� �����������, ������ ���, 1 ��",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3926815.jpg",
+      "plu": 3926815,
+      "promo": {
+        "id": 1172068524,
+        "date_begin": "2021-04-06",
+        "date_end": "2021-04-12",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 520.99,
+        "price_promo__min": 489.99
+      },
+      "store_name": null
+    }
+  ]
+}
